@@ -74,3 +74,30 @@ figure{
 .main-text table th.half {
     width: 50%;
 }
+
+footer{
+    margin: 25px 0;
+}
+
+footer h2 {
+    font-size: 15;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+#monitor{
+    background-image: url("../img /monitor.jpg");
+}
+
+#graph {
+    background-image: url("../img /graph.jpg");
+}
+
+.img{
+    width: 250px;
+    height: 190px;
+    margin: 25px 0;
+    padding: 15px;
+    color: white;
+
+}
