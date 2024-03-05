@@ -14,7 +14,7 @@ header{
     background-image: url("../img /pattern.png");
     background-size: 25% auto;
     height: 100px;
-    padding: 0 1em;
+    
 }
 
 .logo{
@@ -38,6 +38,22 @@ h1{
     color: grey;
 }
 
-.autohr.name{
+.author-name{
     color: blue;
+}
+
+.small-text{
+    font-size: 12px;
+}
+
+figure{
+    margin: 20px 0;
+}
+
+.text{
+    margin: 20px 0;
+}
+
+ul{
+    margin: 20px 0;
 }
