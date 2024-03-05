@@ -22,3 +22,22 @@ header{
     height: 50px;
 
 }
+
+
+main{
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 38px;
+    line-height: 40px;
+}
+
+.author{
+    font-size: 18px;
+    color: grey;
+}
+
+.autohr.name{
+    color: blue;
+}
