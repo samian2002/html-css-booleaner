@@ -50,10 +50,27 @@ figure{
     margin: 20px 0;
 }
 
-.text{
+.main-text p {
     margin: 20px 0;
 }
 
-ul{
-    margin: 20px 0;
+.main-text ul {
+    margin: 30px 15px;
+}
+.main-text table {
+    text-align: left;
+    border-spacing: 0;
+}
+
+.main-text table thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.main-text table .odd {
+    background-color: #b1e5f2;
+}
+
+.main-text table th.half {
+    width: 50%;
 }
